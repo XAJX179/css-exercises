@@ -1,0 +1,15 @@
+.odd_p{
+    background-color: lightpink;
+    font-family: 'Verdana',"DejaVu Sans",'serif';
+}
+#two_p{
+    color: blue;
+    font-size: 36px;
+}
+.cool{
+    font-size: 24px;
+}
+#four_p{
+    font-weight: bold;
+    background-color: lightgreen;
+}
